@@ -12,7 +12,7 @@ How to use
 	    appSecret = "MY_APP_SECRET",
 	    options;
 	    
-	riodatamine = riodatamine.initialize(appID, appSecret);
+	riodatamine.initialize(appID, appSecret);
 	
 	options = {
 	  search: 'Teatro'
