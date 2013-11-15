@@ -1,6 +1,6 @@
 var riodatamine = require('../lib/riodatamine'),
-	appId = '36492e906aa49878645df4252ed28a51',
-	appSecret = 'zrlm3-ddp85-kbace';
+	appId = 'APP_ID',
+	appSecret = 'APP_SECRET';
 
 
 riodatamine.initialize( appId, appSecret );
