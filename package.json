@@ -1,7 +1,7 @@
 {
   "name": "riodatamine",
   "version": "0.0.1",
-  "main": "riodatamine.js",
+  "main": "lib/riodatamine.js",
   "dependencies": {
     "socket.io": "0.9.x"
   },
