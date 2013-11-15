@@ -1,0 +1,24 @@
+{
+  "name": "riodatamine",
+  "version": "0.0.1",
+  "main": "riodatamine.js",
+  "dependencies": {
+    "socket.io": "0.9.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "keywords": ["riodatamine"],
+  "homepage": "https://github.com/adlerparnas/riodatamine-nodejs",
+  "bugs": {
+    "url": "https://github.com/adlerparnas/riodatamine-nodejs/issues",
+    "email": "eu@adlerparnas.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Adler Parnas",
+    "email": "eu@adlerparnas.com",
+    "url": "http://adlerparnas.com"
+  }
+}
